@@ -25,3 +25,8 @@ Equipe do Projeto
 |-|-|
 |Banco de dados: PostgreSQL | PostgreSQL |
 |Interface: HTML e CSS | HTML e CSS |
+
+<p style="color: #6a737d;">
+  Observação<br>
+  Este repositório foi criado para fins de aprendizado sobre GitHub e Markdown.
+</p>
